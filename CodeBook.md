@@ -44,7 +44,10 @@ The original data is published at http://archive.ics.uci.edu/ml/datasets/Human+A
 
 The data was merged, summarisation applied, column names (variable names) cleaned up. the final tidy dataset produced by the transformation script only includes activity names, subject, mean and standard deviation values.
 
+The new varibale names are: 
+tBodyAcc, tGravityAcc, tBodyAccJerk, tBodyGyro, tBodyGyroJerk, tBodyAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag, fBodyAcc, fBodyAccJerk, fBodyGyro, fBodyAccMag, fBodyBodyAccJerkMag, fBodyBodyGyroMag, fBodyBodyGyroJerkMag
 
+with direction (X,Y and Z) appended aproprietly.
 
 
 
